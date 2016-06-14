@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++14    CMakeFiles/cube3d.dir/mgl/source/GLSLProgram.cpp.o CMakeFiles/cube3d.dir/Main.cpp.o  -o cube3d -rdynamic -lGLEW -lGL -lsfml-graphics -lsfml-window -lsfml-system 
